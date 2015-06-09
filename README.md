@@ -8,7 +8,7 @@ Ruby The Hard Way](http://learnrubythehardway.org/book/ex46.html).
    project_name`)
 2. Move into the directory (`cd project_name`)
 3. Set up Git for yourself:
-  1. Simply fork it (`git remote set-url origin git@github.com/USERNAME/REPO`)
+  1. Simply fork it (`git remote set-url origin git@github.com/USERNAME/REPO`), OR
   2. Remove the current `.git/` directory and start fresh:
 
      ```
