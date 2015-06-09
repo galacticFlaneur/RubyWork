@@ -10,11 +10,12 @@ Ruby The Hard Way](http://learnrubythehardway.org/book/ex46.html).
 3. Set up Git for yourself:
   1. Simply fork it (`git remote set-url origin git@github.com/USERNAME/REPO`)
   2. Remove the current `.git/` directory and start fresh:
-    ```
+
+     ```
 rm -r .git/
 git init
 git remote add origin git@github.com/USERNAME/REPO
-    ```
+     ```
 4. Edit the placeholder stuff
   * rename `NAME.gemspec` and edit it with the correct information
   * rename the `lib/NAME/` directory and `lib/NAME.rb` file
