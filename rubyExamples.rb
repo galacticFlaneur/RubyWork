@@ -24,3 +24,12 @@ ARGV.each do |line|
 
 end
 
+<<<<<<< HEAD
+=======
+#this is a comment in ruby222222222
+#this is a duplicate comment in the code blah blah
+
+alpha = alpha + beta.to_s
+
+puts alpha
+>>>>>>> 73cfbbe358b93910f83215275249f2597d0d182a
