@@ -1,2 +1,10 @@
-boo bear beats this
-nah duh
+foo@bar.com
+
+this is not an email id
+
+admin#codeeval.com
+
+good123@bad.com
+
+
+bad@good.com
