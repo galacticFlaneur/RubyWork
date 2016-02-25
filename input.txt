@@ -1,10 +1,5 @@
-foo@bar.com
+Hello World,World
 
-this is not an email id
+Hello CodeEval,CodeEval
 
-admin#codeeval.com
-
-good123@bad.com
-
-
-bad@good.com
+San Francisco,San Jose
